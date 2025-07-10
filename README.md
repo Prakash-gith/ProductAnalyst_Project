@@ -78,11 +78,11 @@ A preprocessing script (`analyze_product_funnel.py`) was written in Python to:
 Created a modern, interactive Power BI dashboard with:
 - Slicers for Country and Device OS
 - KPI Cards & Funnel Visuals
-- Retention & Activation Tracking
+- Funnel Chart: Signup → Activation → Retention
 - Dynamic Filtering using Power Query
 
-🔗 **Live Demo (Power BI)**  
-👉 [View User Activation & Retention Dashboard](screenshot)
+🔗 **Screenshot (Power BI)**  
+👉 [View User Activation & Retention Dashboard]
 <img width="1561" height="864" alt="Screenshot 2025-07-10 173657" src="https://github.com/user-attachments/assets/3ecc6151-8e9d-41e4-9c8c-e62c2ec15ecf" />
 
 
@@ -92,6 +92,8 @@ Built with the same cleaned dataset for comparison. Included:
 - Line chart: DAUs over time
 - Heatmap: Feature adoption
 - KPI cards and filters
+- Funnel Chart: Signup → Activation → Retention
+- Memory Usage by OS
 
 🔗 **Live Demo (Tableau Public)**  
 👉 [View User Activation & Retention Dashboard]
